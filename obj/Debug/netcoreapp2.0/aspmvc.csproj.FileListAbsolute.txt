@@ -1,0 +1,11 @@
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/bin/Debug/netcoreapp2.0/aspmvc.deps.json
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/bin/Debug/netcoreapp2.0/aspmvc.runtimeconfig.json
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/bin/Debug/netcoreapp2.0/aspmvc.runtimeconfig.dev.json
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/bin/Debug/netcoreapp2.0/aspmvc.dll
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/bin/Debug/netcoreapp2.0/aspmvc.pdb
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.csprojResolveAssemblyReference.cache
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.csproj.CoreCompileInputs.cache
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.AssemblyInfoInputs.cache
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.AssemblyInfo.cs
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.dll
+/Users/takahashimasahiro/Projects/aspmvc/aspmvc/obj/Debug/netcoreapp2.0/aspmvc.pdb
