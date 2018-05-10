@@ -1,2 +1,3 @@
 # aspmvc
-お試しがてらなんか作りたい。
+Try it out.
+I want to make something.
